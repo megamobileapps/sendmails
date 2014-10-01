@@ -1,0 +1,4 @@
+use followng command to send mail
+
+/opt/lampp/bin/php sendmail.php 
+
