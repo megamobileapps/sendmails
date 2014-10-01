@@ -1,0 +1,32 @@
+<html>
+<body>
+    <table align='center' cellspacing = 0 border=0>
+
+        <tr align='center'><td>
+        <font size='-1' color='silver'><br>
+                If you are not able to view this mailer properly, please
+                <a href='http://www.uptoschoolworksheets.com/promos/dussheraUTSW.html?dusshera14UTSW=suruceria@indusworldschool.com'
+                title='A stupendous 30% Off on UpToSchoolWorksheets'>
+                Click Here
+                </a></font><br/>
+                This email is to inform you that we are offering a 30% Off on our worksheets for English, Hindi, Maths, Science, Social Studies
+                developed as per the syllabus of your child.<br/>
+                <a href='http://www.uptoschoolworksheets.com?30pcDiscount=suruceria@indusworldschool.com'
+                title='A stupendous 30% Off on UpToSchoolWorksheets'>
+                <img src='http://www.uptoschoolworksheets.com/promos/dusshera.jpg'  alt='A stupendous 30% Off on UpToSchoolWorksheets'
+                        border='1'
+                        title = 'A stupendous 30% Off on UpToSchoolWorksheets'
+                        width='600' height='523' />
+                </a>
+        </td></tr>
+        <tr>
+            <td>
+                <font size='-1' color='silver'>You are either a register user with uptoschoolworksheets  or were
+                contacted as part of our ongoing campaign.<br>
+                If you are not interested in receiving our alert and want to unsubscribe reply with subject 'unsubscribe'.</font>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>

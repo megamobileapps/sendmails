@@ -1,0 +1,5 @@
+call following to send sample mail from aws cli
+
+
+aws --profile test-user ses send-email --from pkgoel74@gmail.com --destination '{"ToAddresses":["goel74@yahoo.com"]}' --message '{"Subject":{"Data":"Hello"}, "Body":{"Text":{"Data":"hello world"}}}'
+
